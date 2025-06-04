@@ -11,4 +11,13 @@
 		<maven.compiler.target>17</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	<dependencies>
+	<!-- https://mvnrepository.com/artifact/io.quarkus/quarkus-smallrye-jwt -->
+<dependency>
+    <groupId>io.quarkus</groupId>
+    <artifactId>quarkus-smallrye-jwt</artifactId>
+    <version>3.23.0</version>
+</dependency>
+
+	</dependencies>
 </project>
