@@ -5,11 +5,6 @@ public class TokensJwtDTO {
 	private String refreshToken;
 	
 
-
-
-
-
-
 	public String getAccessToken() {
 		return accessToken;
 	}
